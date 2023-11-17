@@ -1,0 +1,12 @@
+/* Add your styling here if needed */
+.file-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.file-icon {
+    margin-right: 8px;
+}
+
+/* Customize the styling as needed */
